@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WkIS8OK6gxXQ/wcSay0MMCZw1zQ9cWXMzWSiT5g3BgaB/qKniJsionHAV9T2z7xhHKsqGdnT9/fsAkfdMWZGDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arcadia\\Documents\\ffxiv_plugins\\SamplePlugin-master\\SamplePlugin\\SamplePlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arcadia\\.nuget\\packages\\dalamudpackager\\2.1.8\\dalamudpackager.2.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

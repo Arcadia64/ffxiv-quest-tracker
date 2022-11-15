@@ -1,0 +1,11 @@
+C:\Users\Arcadia\Documents\ffxiv_plugins\SamplePlugin-master\SamplePlugin\bin\x64\Debug\goat.png
+C:\Users\Arcadia\Documents\ffxiv_plugins\SamplePlugin-master\SamplePlugin\bin\x64\Debug\SamplePlugin.deps.json
+C:\Users\Arcadia\Documents\ffxiv_plugins\SamplePlugin-master\SamplePlugin\bin\x64\Debug\SamplePlugin.dll
+C:\Users\Arcadia\Documents\ffxiv_plugins\SamplePlugin-master\SamplePlugin\bin\x64\Debug\SamplePlugin.pdb
+C:\Users\Arcadia\Documents\ffxiv_plugins\SamplePlugin-master\SamplePlugin\obj\x64\Debug\SamplePlugin.csproj.AssemblyReference.cache
+C:\Users\Arcadia\Documents\ffxiv_plugins\SamplePlugin-master\SamplePlugin\obj\x64\Debug\SamplePlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arcadia\Documents\ffxiv_plugins\SamplePlugin-master\SamplePlugin\obj\x64\Debug\SamplePlugin.AssemblyInfoInputs.cache
+C:\Users\Arcadia\Documents\ffxiv_plugins\SamplePlugin-master\SamplePlugin\obj\x64\Debug\SamplePlugin.AssemblyInfo.cs
+C:\Users\Arcadia\Documents\ffxiv_plugins\SamplePlugin-master\SamplePlugin\obj\x64\Debug\SamplePlugin.csproj.CoreCompileInputs.cache
+C:\Users\Arcadia\Documents\ffxiv_plugins\SamplePlugin-master\SamplePlugin\obj\x64\Debug\SamplePlugin.dll
+C:\Users\Arcadia\Documents\ffxiv_plugins\SamplePlugin-master\SamplePlugin\obj\x64\Debug\SamplePlugin.pdb
